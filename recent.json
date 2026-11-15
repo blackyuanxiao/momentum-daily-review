@@ -1,0 +1,26 @@
+{
+  "schema_version": "mom_i03_recent_reports_v1",
+  "items": [
+    {
+      "signal_date": "2026-11-12",
+      "path": "2026-11-12.html",
+      "git_blob_sha1": "7decdb0bba5805e6cf054a00cd0e1f92714876a5",
+      "sha256": "ec6c8697cfd710ed041dc482ae3bbc63f4e48c5ee259f20c7978be2a69203928",
+      "bytes": 2784936
+    },
+    {
+      "signal_date": "2026-11-11",
+      "path": "2026-11-11.html",
+      "git_blob_sha1": "b1c23274cc05ea99642ca0fa32d1ec551dc79a13",
+      "sha256": "97dd04c4feb4aec5367fd2aa837002b360be1f282f53be3a52b25829c9a7fbe0",
+      "bytes": 2643064
+    },
+    {
+      "signal_date": "2026-11-05",
+      "path": "2026-11-05.html",
+      "git_blob_sha1": "8500059913f799ce86006eac696ed9ba9d5eaec2",
+      "sha256": "6f1525ba1ccf07032dd3b8488d5bc90937ed6094251c485479c64b2b981f7758",
+      "bytes": 1838784
+    }
+  ]
+}

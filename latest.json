@@ -5,9 +5,9 @@
   "scenario_id": "baseline_50_50",
   "industry_status": "COMPLETE",
   "classification_status": "PARTIAL",
-  "sha256": "b00a9cedae51ea4d68fbdb6f479b37cf11232583d9ee31edb8a78318d53b3358",
-  "git_blob_sha1": "0d9f019ddf9ed3e9fe232ab68400d8500c2d9d2e",
-  "bytes": 2771438,
+  "sha256": "ec6c8697cfd710ed041dc482ae3bbc63f4e48c5ee259f20c7978be2a69203928",
+  "git_blob_sha1": "7decdb0bba5805e6cf054a00cd0e1f92714876a5",
+  "bytes": 2784936,
   "content_protection": "PBKDF2-SHA256/AES-256-GCM",
-  "uploaded_at_utc": "2026-11-15T10:24:48.682Z"
+  "uploaded_at_utc": "2026-11-15T12:37:55.953Z"
 }
