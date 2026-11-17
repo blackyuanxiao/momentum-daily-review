@@ -1,0 +1,14 @@
+{
+  "schema_version": "mom_t02_public_latest_v1",
+  "report_kind": "MOM-T02_THEME_PILOT",
+  "signal_date": "2026-11-17",
+  "label_date": "2026-11-17",
+  "scenario_id": "baseline_50_50",
+  "source_complete": true,
+  "source_data_sha256": "f26282824b151a6ba2003392441c838399cd25dfd216a64534f940ba02a50714",
+  "plaintext_sha256": "be0438acae528b676a3ecc717887ba269491b64aaaa1fd34b68053878495f69b",
+  "sha256": "3b0669440c4e90143fc4a409a49fc62050dfea50d0cdc7803d666bd3131152dc",
+  "git_blob_sha1": "cfccffa9dedb54c28b84e4dee47295ae9eac642e",
+  "bytes": 143895,
+  "content_protection": "PBKDF2-SHA256/AES-256-GCM"
+}
