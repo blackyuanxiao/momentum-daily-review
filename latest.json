@@ -1,13 +1,13 @@
 {
   "schema_version": "mom_i03_public_latest_v1",
-  "signal_date": "2026-11-16",
+  "signal_date": "2026-11-17",
   "label_date": "2026-11-17",
   "scenario_id": "baseline_50_50",
   "industry_status": "COMPLETE",
   "classification_status": "PARTIAL",
-  "sha256": "d998c366550ce1fa16504b3b3e87c41b135b115c7a5fc5becb1dce5847b80fe4",
-  "git_blob_sha1": "5b2ac84d9c9b3c081bcf375b1bfaed596b38f20c",
-  "bytes": 2796688,
+  "sha256": "1b380bc6989fcd22b9a00dcdfded0cfefd33e4c1b229d39a5f97ae52fefec309",
+  "git_blob_sha1": "6f40e8a19f083d8ce5ff5f868b936788f22b7aa4",
+  "bytes": 2699124,
   "content_protection": "PBKDF2-SHA256/AES-256-GCM",
-  "uploaded_at_utc": "2026-11-17T13:10:39.777Z"
+  "uploaded_at_utc": "2026-11-17T13:16:09.824Z"
 }
