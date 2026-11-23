@@ -2,6 +2,13 @@
   "schema_version": "mom_i03_recent_reports_v1",
   "items": [
     {
+      "signal_date": "2026-11-23",
+      "path": "2026-11-23.html",
+      "git_blob_sha1": "07a7b931410898140cb52c2508d442dc6d26eaf6",
+      "sha256": "60f075f5ef41d91c57a39ac8954f5092e457c4c545c4f0edc547cce890463ca2",
+      "bytes": 1712120
+    },
+    {
       "signal_date": "2026-11-19",
       "path": "2026-11-19.html",
       "git_blob_sha1": "ab2931ddf9687b88b8715d85447cc42d0977b79c",
@@ -14,13 +21,6 @@
       "git_blob_sha1": "6592de69d06fdaf791e1ab2b28ba2ae8b5f35d2d",
       "sha256": "6297d94f4194037a22caef8c8bcdb54b2122fa4a5ac50969f789bd501cbba626",
       "bytes": 2645756
-    },
-    {
-      "signal_date": "2026-11-17",
-      "path": "2026-11-17.html",
-      "git_blob_sha1": "2ffc1bc660abc44aa2372bfd762d0d55ae1f533c",
-      "sha256": "02c426501ceeaf6d4b1c6e4e605807a44e33c6864a19c42979db9c28e014fb8b",
-      "bytes": 2837980
     }
   ]
 }
